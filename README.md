@@ -2,13 +2,13 @@
 Natural Language Processing End to End Notes
 
 ## Introduction to NLP
-## Text Preprocessing
+## 1. Text Preprocessing
 ### Noise Removal
 ### Lexicon Normalization
 #### Lemmatization
 #### Stemming
 ### Object Standardization
-## Text to Features (Feature Engineering on text data)
+## 2. Text to Features (Feature Engineering on text data)
 ### Syntactical Parsing
 #### Dependency Grammar
 #### Part of Speech Tagging
@@ -22,7 +22,7 @@ Natural Language Processing End to End Notes
 #### Frequency / Density Features
 #### Readability Features
 ### Word Embeddings
-## Important tasks of NLP
+## 3. Important tasks of NLP
 ### Text Classification
 ### Text Matching
 #### Levenshtein Distance
@@ -30,4 +30,4 @@ Natural Language Processing End to End Notes
 #### Flexible String Matching
 ### Coreference Resolution
 ### Other Problems
-## Important NLP libraries
+## 4. Important NLP libraries
